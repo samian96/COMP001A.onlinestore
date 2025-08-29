@@ -1,4 +1,2 @@
 Author: Samuel Iannazzo
-
-# COMP001A.onlinestore
-A mock online store
+Purpose: Mock Online Store
